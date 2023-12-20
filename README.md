@@ -5,7 +5,6 @@
 
 ## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/racalixta/readme-assets/blob/main/java/workshop-springboot3-jpa/domain-model.PNG)
-y
 
 ## Tecnologias Utilizadas
 - Java 
